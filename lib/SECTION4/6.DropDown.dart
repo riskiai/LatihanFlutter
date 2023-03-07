@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 
   Menampilkan Data Item
             => Data Item Berbentuk Dropdown
+            => Data Berupa Data Integer Data String
 
  */
 
